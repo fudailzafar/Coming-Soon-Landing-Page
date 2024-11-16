@@ -2,7 +2,7 @@
 
 A **responsive Coming Soon page** that displays a countdown timer for the website launch. The page also features a "Learn More" button for user engagement and animations for visual appeal.
 
-## 🌟 Features
+## Features
 
 - **Countdown Timer**: Live countdown displaying days, hours, minutes, and seconds remaining until the launch date.
 - **Modern Design**: Visually appealing layout with a rocket image and company branding.
